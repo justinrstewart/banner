@@ -15,9 +15,6 @@ html {
   font-family: "PT Sans", sans-serif;
 }
 
-*, *::before, *::after {
-  box-sizing: inherit;
-}
 
 .img-flex {
   display: block;
